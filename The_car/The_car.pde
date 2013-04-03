@@ -8,7 +8,7 @@ int x = 200;
 int y = 285;
 
 void draw() {
-background(255, 200, 255);
+background(205, 200, 255);
   noStroke();  
 fill(200, 150, 20);
 rect(x, 150, 80, 20);
